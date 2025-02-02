@@ -729,7 +729,7 @@
   background-image: none;
   font-size: 1.4rem;
   font-family: Georgia, serif;
-  margin: -42px auto 0 99px;
+  margin: -42px auto 0 98px;
   padding: 0;
 }
 
@@ -738,7 +738,7 @@
   font-size: 1.4rem;
   font-family: Georgia, serif;
   line-height: 1.8;
-  margin: 36px auto 0 99px;
+  margin: 36px auto 0 205px;
   padding: 0;
 }
 
@@ -847,7 +847,6 @@
   .u-section-7 .u-icon-3 {
     margin-top: 43px;
     margin-left: 12px;
-    margin-left: auto;
   }
 
   .u-section-7 .u-btn-3 {
@@ -860,10 +859,8 @@
   .u-section-7 .u-btn-4 {
     font-size: 1.25rem;
     margin-top: 50px;
-    margin-right: 60px;
+    margin-right: 16px;
     margin-left: auto;
-
-  
   }
 
   .u-section-7 .u-icon-4 {
