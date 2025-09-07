@@ -50,7 +50,7 @@
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 350px !important; /* daha küçük sabit yükseklik */
-  padding-top: 20px !important; /* üstten az boşluk */
+  padding-top: 10px !important; /* üstten az boşluk */
   padding-bottom: 20px !important; /* alttan az boşluk */
 }
 
@@ -74,7 +74,7 @@
 .u-section-2 .u-image-1 {
   width: 269px;
   height: 280px;
-  margin: 30px 10px -38px auto;
+  margin: 20px 10px -20px auto;
 }
 
 .u-section-2 .u-layout-cell-2 {
